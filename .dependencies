@@ -1,0 +1,12 @@
+webpack webpackstream webpack-cli webpack-merge webpack-dev-server html-webpack-plugin clean-webpack-plugin
+babel-loader @babel/core @babel/cli
+@babel/preset-env @babel/preset-flow @babel/preset-react 
+?@babel/plugin-transform-modules-commonjs
+@babel/plugin-proposal-class-properties 
+@babel/plugin-proposal-object-rest-spread 
+@babel/eslint-parser
+css-loader style-loader 
+flow-bin jest prettier
+eslint eslint-config-babel eslint-config-prettier eslint-plugin-flowtype eslint-plugin-react
+gulp gulp-babel
+@types/node @types/react @types/react-dom
